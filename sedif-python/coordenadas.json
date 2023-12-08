@@ -1,0 +1,46 @@
+{
+    "abrir_documento": [
+        309,
+        94
+    ],
+    "abrir2": [
+        49,
+        582
+    ],
+    "encerrar": [
+        198,
+        41
+    ],
+    "gerar_documento": [
+        42,
+        93
+    ],
+    "iniciar_processamento": [
+        85,
+        167
+    ],
+    "certificado_box_nao": [
+        691,
+        435
+    ],
+    "processo_finalizado_box": [
+        818,
+        406
+    ],
+    "transmitir": [
+        120,
+        89
+    ],
+    "fechar_tela": [
+        78,
+        675
+    ],
+    "iniciar": [
+        75,
+        41
+    ],
+    "fechar_documento": [
+        307,
+        83
+    ]
+}
